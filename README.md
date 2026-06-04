@@ -1,119 +1,144 @@
 <div align="center">
 
-# ⚡ Artur de Souza Constantino
+# Artur Constantino
+### 💻 Suporte em TI · Infraestrutura · BI Júnior
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Analista+de+Suporte+e+Infraestrutura;Administrador+de+Sistemas;Power+BI+e+Análise+de+Dados;Pós-graduando+em+IA+e+Ciência+de+Dados;Apaixonado+por+Tecnologia+e+Inovação" />
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arturconstantino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturconstantino)
+[![Gmail](https://img.shields.io/badge/Gmail-arturdesouzabrasil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturdesouzabrasil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-artur--constantino-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur-constantino)
+[![Open to Work](https://img.shields.io/badge/🟢-Open_to_Work-238636?style=for-the-badge)](https://www.linkedin.com/in/arturconstantino)
 
 </div>
 
 ---
 
-# 👨‍💻 Quem sou eu
+## 👨‍💻 Sobre mim
 
-Atualmente atuo na área de Tecnologia da Informação com foco em:
-
-🖥️ Administração de Sistemas
-
-🌐 Infraestrutura e Redes
-
-🔧 Suporte Técnico Corporativo
-
-📊 Business Intelligence
-
-🤖 Inteligência Artificial
-
-📈 Ciência de Dados
-
-Meu objetivo é construir soluções que aumentem a produtividade, reduzam falhas operacionais e contribuam para a transformação digital das organizações.
-
----
-
-# 🏢 Experiência Profissional
-
-### 🏥 Centro Médico Sapé
-
-**Suporte TI & Administração de Sistemas**
-
-```yaml
-Responsabilidades:
-  - Administração de sistemas internos
-  - Suporte técnico aos usuários
-  - Infraestrutura local
-  - Automação de processos
-  - Monitoramento operacional
+```
+Analista de Suporte em TI | Infraestrutura | BI Júnior
 ```
 
-### 🛒 Varejo e Comércio
+Buscando oportunidades no início de carreira onde possa aplicar meus conhecimentos em **suporte de TI**, **manutenção de computadores** e **infraestrutura de redes**.
+Foco em garantir a continuidade dos processos internos através de soluções eficientes, suporte ágil e otimização de fluxos de trabalho.
 
-```yaml
-Atividades:
-  - Suporte técnico
-  - Relatórios financeiros
-  - Excel avançado
-  - Controle operacional
-```
+- 🏠 Disponível para **Home Office** e outras regiões
+- 🚗 **CNH categoria B**
+- 🌐 Português (Nativo) · Inglês (B1) · Espanhol (B1)
 
 ---
 
-# 🚀 Stack Tecnológica
+## 📊 Em números
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,git,github,bash,html,css,mysql,vscode"/>
+| 🗓️ Experiência | 📜 Certificações | 🎓 Formações |
+|:-:|:-:|:-:|
+| **3+ anos** | **15+** | **4 ativas** |
 
 </div>
 
 ---
 
-# 📚 Formação
+## 💼 Experiência Profissional
 
-🎓 Ciência da Computação
+**🟢 Suporte em TI / Administração de Sistemas** · *jul/2025 – atual*
+> **Centro Médico Sapé**
+> - Manutenção de computadores, rede local e suporte técnico aos usuários
+> - Configuração e monitoramento do sistema interno
+> - Automação de rotinas e gestão dos canais digitais
 
-🎓 Gestão Comercial
+**🔵 Suporte Financeiro & Suporte de TI** · *nov/2024 – mai/2025*
+> **Varejo e Comércio de Produtos Locais**
+> - Suporte técnico em hardware, software e resolução de problemas
+> - Organização de dados e relatórios financeiros em Excel
 
-🎓 Pós-graduação em Ciência de Dados e IA
-
-🎓 Pós-graduação em Gestão de TI e Projetos
+**🔵 Suporte em TI / Administração de Sistemas** · *jul/2024 – out/2024*
+> **MG Móveis**
+> - Administração de sistemas internos e suporte técnico aos colaboradores
+> - Apoio direto às operações administrativas e suporte operacional estratégico
 
 ---
 
-# 📈 GitHub Analytics
+## 🎓 Formação Acadêmica
+
+| Curso | Instituição | Situação |
+|---|---|:-:|
+| Superior de Tecnologia em Gestão Comercial | IFPB | ✅ Concluído 2025 |
+| Bacharelado em Ciência da Computação | Unipê | 🔄 Em andamento |
+| Pós-graduação em Ciências de Dados e IA | Faculdade Líbano | 🔄 Em andamento |
+| Pós-graduação em Gestão de TI e Gerenciamento de Projetos | Faculdade Líbano | 🔄 Em andamento |
+
+---
+
+## 🛠️ Tech Skills
+
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura_de_TI-30363d?style=flat-square&logoColor=white)
+![Segurança](https://img.shields.io/badge/Segurança_Digital-30363d?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-30363d?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes_Locais-30363d?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-30363d?style=flat-square)
+![Automação](https://img.shields.io/badge/Automação_de_Rotinas-30363d?style=flat-square)
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nível | Proficiência |
+|---|---|---|
+| 🇧🇷 Português | Nativo | ████████████ 100% |
+| 🇺🇸 Inglês | Intermediário (B1) | ██████░░░░░░ 55% |
+| 🇪🇸 Espanhol | Intermediário (B1) | ██████░░░░░░ 55% |
+
+---
+
+## 🧠 Soft Skills
+
+| | |
+|---|---|
+| ⚡ **Proatividade** | Identifico e resolvo problemas antes que se tornem críticos |
+| 💬 **Comunicação** | Transmito informações técnicas de forma clara a diferentes públicos |
+| 📋 **Organização** | Gestão eficiente de múltiplas demandas com foco em prazos e qualidade |
+| 🔄 **Adaptabilidade** | Facilidade em aprender novas ferramentas e ambientes de trabalho |
+
+---
+
+## 📜 Certificações
+
+<details>
+<summary><b>🏅 Ver todas as certificações (15)</b></summary>
+
+| Certificação | Instituição | Ano |
+|---|---|:-:|
+| Fundamentos de TI: Hardware e Software | Fundação Bradesco | 2024 |
+| Segurança em Tecnologia da Informação | Fundação Bradesco | 2024 |
+| Lei Geral de Proteção de Dados (LGPD) | Fundação Bradesco | 2024 |
+| Gestão de Projetos | Fundação Bradesco | 2024 |
+| Power BI | Certificado Cursos Online | 2024 |
+| Excel | Certificado Cursos Online | 2024 |
+| Gestão Financeira | Sebrae | 2024 |
+| Marketing Digital | — | 2024 |
+| Liderança: Times de Alta Performance | Sebrae | 2024 |
+| Segurança Digital | FGV | 2025 |
+| TI como Elemento Estratégico nas Organizações | FGV | 2025 |
+| Ecossistema de Fintechs e Pagamento Digital | FGV | 2025 |
+| Inteligência Artificial e Produtividade | Google / Santander | 2025 |
+| Estratégia de Negócios | Fundação Bradesco | 2025 |
+| Empreendedorismo e Inovação | Fundação Bradesco | 2025 |
+
+</details>
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+*Aberto a novas oportunidades · Home Office · Sapé — PB*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1"/>
-
-</div>
-
----
-
-# 🎯 Objetivos para 2026
-
-* [ ] Certificação Microsoft
-* [ ] Especialização em Cloud Computing
-* [ ] Desenvolver projetos de IA
-* [ ] Evoluir para Analista Pleno
-* [ ] Criar portfólio de Power BI
-
----
-
-# 🌎 Contato
-
-📧 [arturdesouzabrasil@gmail.com](mailto:arturdesouzabrasil@gmail.com)
-
-💼 LinkedIn:
-[www.linkedin.com/in/arturconstantino](http://www.linkedin.com/in/arturconstantino)
-
----
-
-<div align="center">
-
-### "Transformando desafios em soluções através da tecnologia."
+[![LinkedIn](https://img.shields.io/badge/Vamos_nos_conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturconstantino)
 
 </div>

@@ -4,7 +4,6 @@
 ### 💻 Analista de TI · Business Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arturconstantino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturconstantino)
-[![Gmail](https://img.shields.io/badge/Gmail-arturdesouzabrasil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturdesouzabrasil@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-artur--constantino-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur-constantino)
 
 📍 Sapé, Paraíba | 📞 +55 (83) 99674-3955

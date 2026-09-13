@@ -23,7 +23,6 @@ Capacitado para atuar na continuidade de operações em ambientes de saúde e co
 Destaco-me pela habilidade em transformar dados brutos em inteligência de negócio, desenvolvendo relatórios financeiros e dashboards gerenciais no **Power BI** e **Excel** para apoiar a tomada de decisão da gerência.
 
 - 🏠 Disponível para **Home Office** e outras regiões
-- 🚗 **CNH categoria B**
 - 🌐 Português (Nativo) · Inglês (Intermediário) · Espanhol (Intermediário)
 
 ---

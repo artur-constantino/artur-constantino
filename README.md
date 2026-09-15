@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arturconstantino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturconstantino)
 [![GitHub](https://img.shields.io/badge/GitHub-artur--constantino-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur-constantino)
 
-📍 Sapé, Paraíba | 📞 +55 (83) 99674-3955
-
 </div>
 
 ---
